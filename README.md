@@ -1,4 +1,11 @@
 ### Hi there 👋
+👨🏻‍💻  I am a Computer Science student major in Game and mobile development. I love to solve difficult problems and come up with new ways to solve a specific problem using algorithms.
+
+💻 Working on freelance project, ecommerce website.
+🌱 I'm currently learning new things like Machine Learning and Game engine (Unity).
+
+### How I learn CSS
+![](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
 
 <!--
 **kanlip/kanlip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
