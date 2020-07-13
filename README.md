@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 👨🏻‍💻  I am a Computer Science student major in Game and mobile development. I love to solve difficult problems and come up with new ways to solve a specific problem using algorithms.
 
 💻 Working on freelance project, ecommerce website.
