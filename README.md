@@ -2,7 +2,7 @@
 👨🏻‍💻  I am a Computer Science student major in Game and mobile development. I love to solve difficult problems and come up with new ways to solve a specific problem using algorithms.
 
 💻 Working on freelance project, ecommerce website.
-🌱 I'm currently learning new things like Machine Learning and Game engine (Unity).
+🌱 I'm currently learning new things like Machine Learning, Interactive Graphics(OpenGL) and Game engine(Unity).
 
 ### How I learn CSS
 ![](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
