@@ -6,7 +6,7 @@
 
 [![kanlip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanlip)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanlip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kanlip)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### How I learn CSS
 ![](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
