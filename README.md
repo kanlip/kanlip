@@ -4,7 +4,7 @@
 💻 Working on freelance project, ecommerce website.
 🌱 I'm currently learning new things like Machine Learning.
 
-[![kanlip's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanlip)](https://github.com/anuraghazra/github-readme-stats)
+![Kan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanlip&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanlip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
