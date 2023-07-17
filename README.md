@@ -3,6 +3,7 @@
 
 💻 Working on freelance project, ecommerce website.
 🌱 I'm currently learning new things like Machine Learning.
+![Codewars](https://github.r2v.ch/codewars?user=kanlip&stroke=%23BB432C)
 
 ![Kan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanlip&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanlip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
