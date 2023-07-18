@@ -1,8 +1,6 @@
 # Hi there 👋
 👨🏻‍💻  I am a Master's degree in Computer Science student at University of Melbourne. I love to solve difficult problems and come up with new ways to solve a specific problem using algorithms.
 
-💻 Working on freelance project, ecommerce website.
-🌱 I'm currently learning new things like Machine Learning.
 ![Codewars](https://github.r2v.ch/codewars?user=kanlip&stroke=%23BB432C)
 
 ![Kan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanlip&show_icons=true)
